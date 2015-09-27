@@ -1,4 +1,7 @@
 # first_project
-this a template (HTML5,CSS3 and javascript)
+template make from these  language you can esily change to you can have english and persian language (MVC)
 
-#for more information go to our website and email address
+
+-HTML5
+-CSS3 
+-Javascript
